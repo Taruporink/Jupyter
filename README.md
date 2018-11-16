@@ -6,8 +6,9 @@
 - [最後に](#chapter4)
 
 ## About <a id="chapter1"></a>
-このブログで作り紹介したプログラム( 主に白テニ関連 )の多くは，
-[僕のGithub](https://github.com/Taruporink)
+[僕のブログ](https://tarupo.xyz/)
+で作り紹介したプログラム( 主に白テニ関連 )の多くは，
+[このGithub](https://github.com/Taruporink)
 に公開してあります．また，
 [Jupyter Notebook](http://jupyter.org/)
 のファイル形式(.ipynb)で公開してあるものに関しては，利用端末に関わらずブラウザからアクセスして利用することができます．
